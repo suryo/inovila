@@ -1,5 +1,6 @@
-# INVILA - (EXPO - REACT NATIVE)
-### [Village Information System]
+# INVILA - VILLAGE INFORMATION SYSTEM
+## DESCRIPTION
+* Village Information System with react native expo
 
 ## RUN
 * run command expo start
